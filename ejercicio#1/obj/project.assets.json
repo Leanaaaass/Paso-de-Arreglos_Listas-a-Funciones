@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\Paso de Arreglos_Listas a Funciones\\Paso de Arreglos_Listas a Funciones.csproj",
-      "projectName": "Paso de Arreglos_Listas a Funciones",
-      "projectPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\Paso de Arreglos_Listas a Funciones\\Paso de Arreglos_Listas a Funciones.csproj",
+      "projectUniqueName": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#1\\ejercicio#1.csproj",
+      "projectName": "ejercicio#1",
+      "projectPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#1\\ejercicio#1.csproj",
       "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\Paso de Arreglos_Listas a Funciones\\obj\\",
+      "outputPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
