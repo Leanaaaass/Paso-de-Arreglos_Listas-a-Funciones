@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj": {}
+    "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj": {
+    "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj",
+        "projectUniqueName": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj",
         "projectName": "ejercicio#3",
-        "projectPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj",
+        "projectPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#3\\ejercicio#3\\ejercicio#3.csproj",
         "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\ejercicio#3\\ejercicio#3\\obj\\",
+        "outputPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\ejercicio#3\\ejercicio#3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -20,7 +20,7 @@ namespace Diccionario
         public static List<Tuple<string, string>> CrearDiccionario()
         {
             List<Tuple<string, string>> diccionario = new List<Tuple<string, string>>();
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < 5; i++)
             {
                 Console.Write("Ingrese la palabra en inglés: ");
                 string palabraIngles = Console.ReadLine();
