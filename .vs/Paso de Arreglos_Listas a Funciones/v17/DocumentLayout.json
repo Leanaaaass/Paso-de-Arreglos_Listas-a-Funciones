@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9F8E12-1841-472A-8909-B01C41EBC452}|Paso de Arreglos_Listas a Funciones\\Paso de Arreglos_Listas a Funciones.csproj|c:\\users\\work\\desktop\\pasodearreglos_listasafunciones\\paso-de-arreglos_listas-a-funciones\\paso de arreglos_listas a funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9F8E12-1841-472A-8909-B01C41EBC452}|Paso de Arreglos_Listas a Funciones\\Paso de Arreglos_Listas a Funciones.csproj|solutionrelative:paso de arreglos_listas a funciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\Paso de Arreglos_Listas a Funciones\\Program.cs",
+              "RelativeDocumentMoniker": "Paso de Arreglos_Listas a Funciones\\Program.cs",
+              "ToolTip": "C:\\Users\\Work\\Desktop\\pasodearreglos_listasafunciones\\Paso-de-Arreglos_Listas-a-Funciones\\Paso de Arreglos_Listas a Funciones\\Program.cs",
+              "RelativeToolTip": "Paso de Arreglos_Listas a Funciones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:10:37.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

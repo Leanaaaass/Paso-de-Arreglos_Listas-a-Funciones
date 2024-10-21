@@ -1,0 +1,14 @@
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\bin\Debug\net8.0\ejercicio#3.exe
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\bin\Debug\net8.0\ejercicio#3.deps.json
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\bin\Debug\net8.0\ejercicio#3.runtimeconfig.json
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\bin\Debug\net8.0\ejercicio#3.dll
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\bin\Debug\net8.0\ejercicio#3.pdb
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ejercicio#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ejercicio#3.AssemblyInfoInputs.cache
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ejercicio#3.AssemblyInfo.cs
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ejercicio#3.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ejercicio#3.dll
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\refint\ejercicio#3.dll
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ejercicio#3.pdb
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ejercicio#3.genruntimeconfig.cache
+C:\Users\Work\Desktop\pasodearreglos_listasafunciones\ejercicio#3\ejercicio#3\obj\Debug\net8.0\ref\ejercicio#3.dll
